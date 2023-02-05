@@ -1,8 +1,9 @@
 package com.company.participants_and_barriars.model_participant;
 
-import com.company.participants_and_barriars.service.ParticipantService;
+import com.company.participants_and_barriars.opportunity.Jumpable;
+import com.company.participants_and_barriars.opportunity.Runnable;
 
-public abstract class Participant implements ParticipantService {
+public abstract class Participant implements Runnable, Jumpable {
     private String name;
     private int maxRunLength;
     private int maxJumpHeight;
