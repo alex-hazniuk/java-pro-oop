@@ -1,18 +1,18 @@
-package com.company.lesson3;
+package com.company.lesson3.hometask5;
 
 import com.company.lesson3.hometask5.figures.Circle;
 import com.company.lesson3.hometask5.figures.Figure;
 import com.company.lesson3.hometask5.figures.Square;
 import com.company.lesson3.hometask5.figures.SquareCounter;
 import com.company.lesson3.hometask5.figures.Triangle;
-import com.company.lesson3.participants_and_barriars.Interaction;
-import com.company.lesson3.participants_and_barriars.model_barrier.Barrier;
-import com.company.lesson3.participants_and_barriars.model_barrier.Sprint;
-import com.company.lesson3.participants_and_barriars.model_barrier.Wall;
-import com.company.lesson3.participants_and_barriars.model_participant.Cat;
-import com.company.lesson3.participants_and_barriars.model_participant.Human;
-import com.company.lesson3.participants_and_barriars.model_participant.Participant;
-import com.company.lesson3.participants_and_barriars.model_participant.Robot;
+import com.company.lesson3.hometask5.participants_and_barriars.Interaction;
+import com.company.lesson3.hometask5.participants_and_barriars.model_barrier.Barrier;
+import com.company.lesson3.hometask5.participants_and_barriars.model_barrier.Sprint;
+import com.company.lesson3.hometask5.participants_and_barriars.model_barrier.Wall;
+import com.company.lesson3.hometask5.participants_and_barriars.model_participant.Cat;
+import com.company.lesson3.hometask5.participants_and_barriars.model_participant.Human;
+import com.company.lesson3.hometask5.participants_and_barriars.model_participant.Participant;
+import com.company.lesson3.hometask5.participants_and_barriars.model_participant.Robot;
 
 public class Main {
     public static void main(String[] args) {

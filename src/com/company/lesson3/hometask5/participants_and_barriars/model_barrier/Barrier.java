@@ -1,6 +1,6 @@
-package com.company.lesson3.participants_and_barriars.model_barrier;
+package com.company.lesson3.hometask5.participants_and_barriars.model_barrier;
 
-import com.company.lesson3.participants_and_barriars.opportunity.Overcomable;
+import com.company.lesson3.hometask5.participants_and_barriars.opportunity.Overcomable;
 
 public abstract class Barrier implements Overcomable {
     private int parameter;

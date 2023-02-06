@@ -1,7 +1,7 @@
-package com.company.lesson3.participants_and_barriars.model_participant;
+package com.company.lesson3.hometask5.participants_and_barriars.model_participant;
 
-import com.company.lesson3.participants_and_barriars.opportunity.Jumpable;
-import com.company.lesson3.participants_and_barriars.opportunity.Runnable;
+import com.company.lesson3.hometask5.participants_and_barriars.opportunity.Jumpable;
+import com.company.lesson3.hometask5.participants_and_barriars.opportunity.Runnable;
 
 public abstract class Participant implements Runnable, Jumpable {
     private String name;

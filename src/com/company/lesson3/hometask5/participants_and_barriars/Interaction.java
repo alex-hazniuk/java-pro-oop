@@ -1,7 +1,7 @@
-package com.company.lesson3.participants_and_barriars;
+package com.company.lesson3.hometask5.participants_and_barriars;
 
-import com.company.lesson3.participants_and_barriars.model_barrier.Barrier;
-import com.company.lesson3.participants_and_barriars.model_participant.Participant;
+import com.company.lesson3.hometask5.participants_and_barriars.model_barrier.Barrier;
+import com.company.lesson3.hometask5.participants_and_barriars.model_participant.Participant;
 
 public class Interaction {
     public void interact(Participant[] participants, Barrier[] barriers) {
