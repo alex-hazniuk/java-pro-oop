@@ -30,7 +30,7 @@ public class HomeWorkApp {
         int a = scanner.nextInt();
         System.out.println("Enter second addendum");
         int b = scanner.nextInt();
-        if (a + b > 0) {
+        if (a + b >= 0) {
             System.out.println("Сума позитивна");
         } else {
             System.out.println("Сума негативна");
